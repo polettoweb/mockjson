@@ -2,13 +2,37 @@
 "posts": [{
     "time": "120456546467467",
     "positive" : "90",
-    "negative" : "20",
-    "mixed" : "10"
+    "negative" : "7",
+    "mixed" : "3"
 },
 {
     "time": "5646776898990980",
     "positive" : "84",
+    "negative" : "12",
+    "mixed" : "4"
+},
+{
+    "time": "5646776898990980",
+    "positive" : "74",
     "negative" : "11",
-    "mixed" : "3"
+    "mixed" : "15"
+},
+{
+    "time": "5646776898990980",
+    "positive" : "75",
+    "negative" : "5",
+    "mixed" : "20"
+},
+{
+    "time": "5646776898990980",
+    "positive" : "71",
+    "negative" : "22",
+    "mixed" : "7"
+},
+{
+    "time": "5646776898990980",
+    "positive" : "77",
+    "negative" : "1",
+    "mixed" : "22"
 }]
 }
